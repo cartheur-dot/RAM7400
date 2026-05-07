@@ -26,4 +26,5 @@ RAM7400 Project Notes
 05.08.2025
     1040: Today will return to ideal-game-ttl to move construction toward completion.
     1134: Ideal is the implementation that is the most interesting for AI. Will add a link to the public repo.
-         
+07.05.2026
+    1835: Consolidating around dot.
