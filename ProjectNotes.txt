@@ -28,3 +28,7 @@ RAM7400 Project Notes
     1134: Ideal is the implementation that is the most interesting for AI. Will add a link to the public repo.
 07.05.2026
     1835: Consolidating around dot.
+    1901: Next session is to shape the test regimen to get a pluggable Volatco System arrangment.
+09.05.2026
+    1044: The focus is on the green build.
+    
